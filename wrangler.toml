@@ -1,0 +1,6 @@
+name = "pollution"
+type = "javascript"
+account_id = "207d524e4e64d4493f6e1856479a6bb6"
+workers_dev = true
+route = ""
+zone_id = "7dd686b97ca78cdb6bf9b3ec48fff762"
