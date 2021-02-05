@@ -74,7 +74,6 @@ const aggregateDateTime = function(values, resolution) {
   }
 
   //Then, aggregate all the data
-  //TODO really figure out why this works. I wrote this, but I don't really understand it
   let result = values.reduce(function(accumulator, item) {
     if (!accumulator[item[0]]) {
       accumulator[item[0]] = [0, 0];
